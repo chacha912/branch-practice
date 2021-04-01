@@ -1,8 +1,8 @@
 ## Spider-Man
 
-- Type: **Comics**
+- Type: **Movie**
 - Made by: **Sony**
-- Release date: **2002.05.03**
+- Release date: **2004.06.30**
 - Name: **Peter Benjamin Parker**
 
-<img src="https://www.goautographs.com/6760-thickbox_default/spider-man-2002.jpg" width="400">
+<img src="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" width="400">
